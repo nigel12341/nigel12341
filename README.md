@@ -17,7 +17,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/n-christiaans/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/n-christiaans/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/10109920" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="10109920" height="30" width="40" /></a>
 <a href="https://instagram.com/nigel_chr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nigel_chr" height="30" width="40" /></a>
-  Or on discord at Nigel#7777
+  Or on discord at infanttree
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
